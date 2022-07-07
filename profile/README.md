@@ -1,6 +1,6 @@
-## Welcome visitor 👋
-
 [![Slack](http://slack.streamingtech.se/badge.svg)](http://slack.streamingtech.se)
+
+## Welcome visitor 👋
 
 ![An illustration showing a piece of puzzle in a hand](https://d1okaosfjqp6sh.cloudfront.net/image/upload/v1528726315/Genre-Unsplash/ryoji-iwata-669950-unsplash-Edited.png)
 
