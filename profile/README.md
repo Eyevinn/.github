@@ -1,5 +1,7 @@
 [![Slack](http://slack.streamingtech.se/badge.svg)](http://slack.streamingtech.se)
 
+[ [Tools](https://github.com/search?q=topic%3Atools+org%3AEyevinn+fork%3Atrue) | [Libraries](https://github.com/search?q=topic%3Alibrary+org%3AEyevinn+fork%3Atrue) | [Services](https://github.com/search?q=topic%3Aservices+org%3AEyevinn+fork%3Atrue) ]
+
 ## Welcome visitor 👋
 
 ![An illustration showing a piece of puzzle in a hand](https://d1okaosfjqp6sh.cloudfront.net/image/upload/v1528726315/Genre-Unsplash/ryoji-iwata-669950-unsplash-Edited.png)
