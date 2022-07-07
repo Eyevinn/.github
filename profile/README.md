@@ -1,4 +1,6 @@
-[ [Tools](https://github.com/search?q=topic%3Atools+org%3AEyevinn+fork%3Atrue) | [Libraries](https://github.com/search?q=topic%3Alibrary+org%3AEyevinn+fork%3Atrue) | [Services](https://github.com/search?q=topic%3Aservice+org%3AEyevinn+fork%3Atrue) ] [![Slack](http://slack.streamingtech.se/badge.svg)](http://slack.streamingtech.se)
+[![Slack](http://slack.streamingtech.se/badge.svg)](http://slack.streamingtech.se)
+
+[ [Tools](https://github.com/search?q=topic%3Atools+org%3AEyevinn+fork%3Atrue) | [Libraries](https://github.com/search?q=topic%3Alibrary+org%3AEyevinn+fork%3Atrue) | [Services](https://github.com/search?q=topic%3Aservice+org%3AEyevinn+fork%3Atrue) ] 
 
 ## Welcome visitor 👋
 
