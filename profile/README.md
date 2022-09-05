@@ -8,7 +8,7 @@
 
 Glad you found our little spot on Internet!
 
-We are [Eyevinn Technology](https://www.eyevinntechology.se), and we are vendor independent video developer specialists working with many areas of the video delivery chain. As our way to innovate and push the industry forward we develop proof-of-concepts and tools. The things we learn and the code we write we share with the industry in [blogs](https://dev.to/video) and by open sourcing the code we have written.
+We are [Eyevinn Technology](https://www.eyevinntechnology.se), and we are vendor independent video developer specialists working with many areas of the video delivery chain. As our way to innovate and push the industry forward we develop proof-of-concepts and tools. The things we learn and the code we write we share with the industry in [blogs](https://dev.to/video) and by open sourcing the code we have written.
 
 **And, this is what you will find here!**
 
