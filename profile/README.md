@@ -14,3 +14,6 @@ We are [Eyevinn Technology](https://www.eyevinntechnology.se), and we are vendor
 
 If you fancy any help in hosting, enhancing or integrating any of the components you find here just drop an email to sales@eyevinn.se and we'll figure something out together.
 
+## Slack
+
+Join our [community on Slack](http://slack.streamingtech.se) where you can post any questions regarding any of our open source projects.
