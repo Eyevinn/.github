@@ -8,11 +8,18 @@
 
 Glad you found our little spot on Internet!
 
-We are [Eyevinn Technology](https://www.eyevinntechnology.se), and we are vendor independent video streaming experts helping our customers with tech-strategy and video development. As our way to innovate and push the industry forward we develop proof-of-concepts and tools. The things we learn and the code we write we share with the industry in [blogs](https://dev.to/video) and by open sourcing the code we have written.
+We are [Eyevinn Technology](https://www.eyevinntechnology.se), and we help companies in the TV, media, and entertainment sectors optimize costs and boost profitability through enhanced media solutions.
+We are independent in a way that we are not commercially tied to any platform or technology vendor. As our way to innovate and push the industry forward, we develop proof-of-concepts and tools. We share things we have learn and code as open-source.
 
-**And, this is what you will find here!**
+With Eyevinn Open Source Cloud we enable to build solutions and applications based on Open Web Services and avoid being locked in with a single web service vendor. Our open-source solutions offer full flexibility with a revenue share model that supports the creators.
 
-If you fancy any help in hosting, enhancing or integrating any of the components you find here just drop an email to sales@eyevinn.se and we'll figure something out together.
+Read our blogs and articles here:
+- [Developer blogs](https://dev.to/video)
+- [Medium](https://eyevinntechnology.medium.com)
+- [OSC](https://www.osaas.io)
+- [LinkedIn](https://www.linkedin.com/company/eyevinn/)
+
+Want to know more about Eyevinn, contact us at info@eyevinn.se!
 
 ## Slack
 
